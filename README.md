@@ -67,10 +67,9 @@ Ubuntu Server running inside VMware.
 
 Web Application
 
-Apache and PHP serve the Nextcloud application.
+Apache and PHP to serve the Nextcloud application.
 
-Database
-
+for Database,
 MariaDB stores Nextcloud application data and configuration.
 
 Remote Access
