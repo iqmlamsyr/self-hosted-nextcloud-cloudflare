@@ -1,0 +1,36 @@
+# Nextcloud config (CONTAINS PASSWORDS!)
+config.php
+/var/www/nextcloud/config/config.php
+
+# Cloudflare Tunnel credentials (SECRET!)
+*.json
+*.cert
+*.pem
+
+# Environment variables
+.env
+*.env
+
+# Database files
+*.sql
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+*.log
+*.tmp
+
+# Nextcloud data directory (too large!)
+data/
+nextcloud-data/
+
+# Backup files
+*.backup
+*.bak
